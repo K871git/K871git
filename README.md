@@ -34,7 +34,7 @@ AI-powered engineering growth platform. Practice MCQs, earn points, spend them o
 ![Laravel](https://img.shields.io/badge/Laravel_13-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP_8.3-777BB4?style=flat-square&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/React+TS-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Ollama](https://img.shields.io/badge/Ollama_AI-000000?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama_AI-4a1eff?style=flat-square&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Deploy:** Netlify · Render · Railway
@@ -117,21 +117,17 @@ Public-facing studio SPA. Glassmorphism design with animated starfield canvas (s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=K871git&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K871git&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=K871git&theme=tokyonight&hide_border=true&ring=7c6af7&fire=a794f9&currStreakLabel=7c6af7" width="700"/>
 
 </div>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=K871git&theme=tokyonight&no-frame=true&margin-w=12&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/K871git/K871git/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/K871git/K871git/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/K871git/K871git/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
 </div>
 
