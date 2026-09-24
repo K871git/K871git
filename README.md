@@ -1,8 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c6af7,100:a794f9&height=220&section=header&text=Kishor%20Gangarde&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20Builder%20of%20Real%20Things&descAlignY=58&descSize=19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a1eff,40:7c6af7,100:c084fc&height=220&section=header&text=Kishor%20Gangarde&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20Builder%20of%20Real%20Things&descAlignY=58&descSize=20" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=7C6AF7&center=true&vCenter=true&width=650&lines=Building+KareerOS+%E2%80%94+The+Path+for+NextGen+Engineers;Laravel+13+%7C+React+%7C+TypeScript+%7C+Ollama+AI;Tauri+2+%7C+Rust+%7C+Native+Desktop+Apps;Full-Stack+Engineer+%40+Biz+Secure+Labs%2C+Pune)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=7C6AF7&center=true&vCenter=true&width=800&lines=Building+KareerOS+%E2%80%94+The+Path+for+NextGen+Engineers;Laravel+13+%7C+React+%7C+TypeScript+%7C+Ollama+AI;Tauri+2+%7C+Rust+%7C+Native+Desktop+Apps;Full-Stack+Engineer+%40+Biz+Secure+Labs%2C+Pune)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=K871git&color=7c6af7&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -12,7 +14,7 @@
 
 Full-stack engineer at **Biz Secure Labs** (Net Protector Antivirus, Pune) — 2 years building production systems across web, AI, and native desktop.
 
-I don't do half-finished. Every project I ship has full auth, real data flows, edge case handling, and production deployment. Currently deep in **KareerOS** — an AI-powered engineering growth platform I'm building from scratch as both a real product and my own engineering evolution.
+I don't do half-finished. Every project I ship has full auth, real data flows, edge case handling, and production deployment. Currently deep in **KareerOS** — an AI-powered engineering growth platform built from scratch as both a real product and my own engineering evolution.
 
 ---
 
@@ -37,7 +39,7 @@ AI-powered engineering growth platform. Practice MCQs, earn points, spend them o
 
 **Deploy:** Netlify · Render · Railway
 
-[🌐 Live Demo →](https://kareeros.netlify.app)
+[🌐 Live Demo →](https://kareeros.netlify.app/)
 
   </td>
   <td width="50%" valign="top">
@@ -56,7 +58,7 @@ Native Windows desktop app. Full OPD flow, prescription builder with duplicate d
 
 **Scale:** 20+ screens · 40+ Tauri commands · v1.2.0
 
-[⬇️ Download v1.2.0 →](https://github.com/K871git/thaelon-products/releases)
+[⬇️ Download v1.2.0 →](https://k871git.github.io/thaelon/#products)
 
   </td>
   </tr>
@@ -76,7 +78,7 @@ Public-facing studio SPA. Glassmorphism design with animated starfield canvas (s
 ![CSS3](https://img.shields.io/badge/Pure_CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white)
 
-[🌐 Live Site →](https://k871git.github.io/thaelon/)
+[🌐 Live Site →](https://k871git.github.io/thaelon)
 
   </td>
   </tr>
@@ -86,17 +88,28 @@ Public-facing studio SPA. Glassmorphism design with animated starfield canvas (s
 
 ## Tech Stack
 
-**Backend**
+<div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=laravel,php,mysql,nodejs)](https://skillicons.dev)
+| | |
+|:---|:---:|
+| **Backend** | [![](https://skillicons.dev/icons?i=laravel,php,mysql,nodejs)](https://skillicons.dev) |
+| **Frontend** | [![](https://skillicons.dev/icons?i=react,ts,js,vite,html,css)](https://skillicons.dev) |
+| **Systems** | [![](https://skillicons.dev/icons?i=rust,tauri,git,linux,docker)](https://skillicons.dev) |
 
-**Frontend**
+&nbsp;
 
-[![Skills](https://skillicons.dev/icons?i=react,ts,js,vite,html,css)](https://skillicons.dev)
+![Laravel 13](https://img.shields.io/badge/Laravel_13-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP 8.3](https://img.shields.io/badge/PHP_8.3-777BB4?style=flat-square&logo=php&logoColor=white)
+![React 19](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tauri 2](https://img.shields.io/badge/Tauri_2-24C8D8?style=flat-square&logo=tauri&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Ollama AI](https://img.shields.io/badge/Ollama_AI-4a1eff?style=flat-square&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-**Systems & Tools**
-
-[![Skills](https://skillicons.dev/icons?i=rust,git,linux,docker)](https://skillicons.dev)
+</div>
 
 ---
 
@@ -104,21 +117,21 @@ Public-facing studio SPA. Glassmorphism design with animated starfield canvas (s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=K871git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c6af7&icon_color=a794f9" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K871git&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c6af7" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=K871git&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K871git&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=K871git&theme=tokyonight&hide_border=true&background=0d1117&ring=7c6af7&fire=a794f9&currStreakLabel=7c6af7" width="720"/>
+<img src="https://streak-stats.demolab.com?user=K871git&theme=tokyonight&hide_border=true&ring=7c6af7&fire=a794f9&currStreakLabel=7c6af7" width="700"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=K871git&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c6af7&line=a794f9&point=ffffff" width="100%"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=K871git&theme=tokyonight&no-frame=true&margin-w=12&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -126,7 +139,7 @@ Public-facing studio SPA. Glassmorphism design with animated starfield canvas (s
 
 ## Currently Building
 
-- **KareerOS** — Groq API for production AI, Theory Q&A module, Coding Battleground frontend, CI/CD pipeline
+- **KareerOS** — Ollama AI integration polish, Theory Q&A module, Coding Battleground frontend, CI/CD pipeline
 
 ---
 
@@ -143,4 +156,4 @@ Public-facing studio SPA. Glassmorphism design with animated starfield canvas (s
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a794f9,100:7c6af7&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,60:7c6af7,100:4a1eff&height=130&section=footer" width="100%"/>
