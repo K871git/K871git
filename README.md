@@ -34,23 +34,28 @@ I don't do half-finished.
 
 <table width="100%">
 <tr>
-<td valign="top">
+<td>
 
-**Biz Secure Labs Pvt Ltd** &nbsp;·&nbsp; [npav.net](https://npav.net)
+&nbsp;
 
-![](https://img.shields.io/badge/Role-Software_Engineer-7c6af7?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/Period-Jun_2024_–_Present-4a1eff?style=flat-square&labelColor=0d1117)
-![](https://img.shields.io/badge/Location-Pune%2C_Maharashtra-c084fc?style=flat-square&labelColor=0d1117)
+**🏢 Biz Secure Labs Pvt Ltd** &nbsp;·&nbsp; [npav.net](https://npav.net)
 
-*Makers of Net Protector Antivirus — India's trusted cybersecurity suite protecting millions of systems.*
+![](https://img.shields.io/badge/Software_Engineer-Jun_2024_–_Present-7c6af7?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/Pune%2C_Maharashtra-India-4a1eff?style=for-the-badge&labelColor=0d1117)
 
-**What I build here:**
+*Makers of Net Protector Antivirus — India's trusted cybersecurity suite protecting millions of systems*
 
-- Malware sample analysis and classification pipelines
-- Systems for generating Antivirus rule files at scale
-- YARA rule engineering — writing, testing, and deploying custom malware detection rules
-- Web application development, built and deployed on production Linux servers
-- Database engineering across **ClickHouse** (large-scale analytics) and **MySQL** (transactional data)
+&nbsp;
+
+| Domain | Contribution |
+|:---|:---|
+| **🔬 Malware Research** | Sample analysis pipelines · threat classification · detection logic |
+| **🛡️ Antivirus Rule Systems** | Built systems for generating rule files at scale |
+| **📋 YARA Engineering** | Custom detection rules · writing, testing and deploying at production |
+| **🌐 Web Development** | Production web apps built and deployed on Linux servers |
+| **🗄️ Database Engineering** | ClickHouse for large-scale analytics · MySQL for transactional data |
+
+&nbsp;
 
 </td>
 </tr>
@@ -166,16 +171,30 @@ Public-facing studio SPA. Glassmorphism design with animated starfield canvas (s
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=K871git&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K871git&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+<div align="center">
+
 <img src="https://streak-stats.demolab.com?user=K871git&theme=tokyonight&hide_border=true&ring=7c6af7&fire=a794f9&currStreakLabel=7c6af7" width="700"/>
 
 </div>
 
 <div align="center">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=K871git&theme=tokyonight&no-frame=true&margin-w=12&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/K871git/K871git/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/K871git/K871git/output/github-contribution-grid-snake-purple.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/K871git/K871git/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/K871git/K871git/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/K871git/K871git/output/github-contribution-grid-snake-purple.svg" width="100%"/>
 </picture>
 
 </div>
@@ -184,7 +203,11 @@ Public-facing studio SPA. Glassmorphism design with animated starfield canvas (s
 
 ## Currently Building
 
-- **KareerOS** — Theory Q&A module, Coding Battleground frontend, CI/CD pipeline
+| Project | Status | What's In Progress |
+|:---|:---:|:---|
+| **KareerOS** | 🔨 Active | Theory Q&A module · Coding Battleground frontend · CI/CD pipeline · production AI migration |
+| **Clinora** | 🔵 Planned | v1.3.0 — expanded pharmacy module · lab results tracking |
+| **Thaelon** | 🟡 Iterating | Client projects showcase · Testimonials section |
 
 ---
 
