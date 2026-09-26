@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a1eff,40:7c6af7,100:c084fc&height=220&section=header&text=Kishor%20Gangarde&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20Builder%20of%20Real%20Things&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a1eff,40:7c6af7,100:c084fc&height=220&section=header&text=Kishor%20Gangarde&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20Security%20Systems%20%7C%20Full-Stack%20%7C%20AI%20%7C%20Desktop&descAlignY=58&descSize=17" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=7C6AF7&center=true&vCenter=true&width=800&lines=Building+KareerOS+%E2%80%94+The+Path+for+NextGen+Engineers;Laravel+13+%7C+React+%7C+TypeScript+%7C+Ollama+AI;Tauri+2+%7C+Rust+%7C+Native+Desktop+Apps;Full-Stack+Engineer+%40+Biz+Secure+Labs%2C+Pune)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=7C6AF7&center=true&vCenter=true&width=850&lines=Building+KareerOS+%E2%80%94+The+Path+for+NextGen+Engineers;YARA+Rules+%C2%B7+Malware+Analysis+%C2%B7+Antivirus+Engineering;Laravel+13+%7C+React+%7C+TypeScript+%7C+Ollama+AI;Tauri+2+%7C+Rust+%7C+Native+Desktop+Apps;Software+Engineer+%40+Biz+Secure+Labs%2C+Pune)](https://git.io/typing-svg)
 
 ### *"I build systems where others see complexity."*
 
@@ -10,8 +10,8 @@
 
 ![](https://img.shields.io/badge/Products_Shipped-3-7c6af7?style=for-the-badge&labelColor=0d1117)
 ![](https://img.shields.io/badge/Commits-421%2B-4a1eff?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/Production-2_Years-c084fc?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/Domains-AI_%C2%B7_Web_%C2%B7_Desktop-7c6af7?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/Experience-2%2B_Years-c084fc?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/Domains-Security_%C2%B7_AI_%C2%B7_Web_%C2%B7_Desktop-7c6af7?style=for-the-badge&labelColor=0d1117)
 ![Profile Views](https://komarev.com/ghpvc/?username=K871git&color=7c6af7&style=for-the-badge&label=Profile+Views)
 
 </div>
@@ -20,17 +20,41 @@
 
 ## Who I Am
 
-Full-stack engineer at **Biz Secure Labs** (Net Protector Antivirus, Pune) — 2 years building production systems across web, AI, and native desktop.
+Software engineer at **Biz Secure Labs** (Net Protector Antivirus, Pune) — building production systems across cybersecurity, web, AI, and native desktop.
 
-I don't do half-finished. Every project I ship has full auth, real data flows, edge case handling, and production deployment. Currently deep in **KareerOS** — an AI-powered engineering growth platform built from scratch as both a real product and my own engineering evolution.
+**By day:** malware sample analysis, YARA rule authoring, antivirus rule file generation, web app development on production servers, and database engineering across ClickHouse and MySQL at one of India's leading cybersecurity companies.
 
-&nbsp;
+**By night:** KareerOS, Clinora, Thaelon — three shipped products built from scratch, each solving a real problem.
 
-**Experience**
+I don't do half-finished.
 
-| Role | Company | Period |
-|:---|:---|:---|
-| Full-Stack Engineer | Biz Secure Labs — Net Protector Antivirus, Pune | 2023 – Present |
+---
+
+## Experience
+
+<table width="100%">
+<tr>
+<td valign="top">
+
+**Biz Secure Labs Pvt Ltd** &nbsp;·&nbsp; [npav.net](https://npav.net)
+
+![](https://img.shields.io/badge/Role-Software_Engineer-7c6af7?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Period-Jun_2024_–_Present-4a1eff?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Location-Pune%2C_Maharashtra-c084fc?style=flat-square&labelColor=0d1117)
+
+*Makers of Net Protector Antivirus — India's trusted cybersecurity suite protecting millions of systems.*
+
+**What I build here:**
+
+- Malware sample analysis and classification pipelines
+- Systems for generating Antivirus rule files at scale
+- YARA rule engineering — writing, testing, and deploying custom malware detection rules
+- Web application development, built and deployed on production Linux servers
+- Database engineering across **ClickHouse** (large-scale analytics) and **MySQL** (transactional data)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -43,7 +67,7 @@ I don't do half-finished. Every project I ship has full auth, real data flows, e
 ### KareerOS
 *The Path for NextGen Engineers*
 
-![](https://img.shields.io/badge/Status-🟢_Live-brightgreen?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/Deploy-Netlify_%C2%B7_Render_%C2%B7_Railway-646CFF?style=flat-square&labelColor=0d1117)
 
 AI-powered engineering growth platform. Practice MCQs, earn points, spend them on Ollama AI hints. Level exams with 80% pass threshold, code playground (PHP / Python / JS / MySQL with rollback), theory levels across 8 CS areas, gamified point economy.
@@ -64,7 +88,7 @@ AI-powered engineering growth platform. Practice MCQs, earn points, spend them o
 ### Clinora
 *Clinic Management — Offline, No Cloud*
 
-![](https://img.shields.io/badge/Status-🔵_v1.2.0-4a1eff?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Status-v1.2.0-4a1eff?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/Platform-Windows_x64-0078D4?style=flat-square&labelColor=0d1117)
 
 Native Windows desktop app. Full OPD flow, prescription builder with duplicate detection + allergy alerts, pharmacy dispensing, billing, EMR, role-based access (Doctor / Pharmacist). Cryptographic licensing via ed25519 — no internet required, ever.
@@ -88,7 +112,7 @@ Native Windows desktop app. Full OPD flow, prescription builder with duplicate d
 ### Thaelon
 *Software Engineering Studio — "Imagine. Engineer. Evolve."*
 
-![](https://img.shields.io/badge/Status-🟢_Live-brightgreen?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/Host-GitHub_Pages-222222?style=flat-square&labelColor=0d1117)
 
 Public-facing studio SPA. Glassmorphism design with animated starfield canvas (stars, moon, shooting stars, clouds, birds — all on raw `<canvas>`), state-machine theme transitions, scroll reveal system, product showcase, and contact. Pure vanilla CSS at ~5300 lines — no Tailwind, no styled-components.
@@ -115,7 +139,7 @@ Public-facing studio SPA. Glassmorphism design with animated starfield canvas (s
 
 | | |
 |:---|:---:|
-| **Backend** | [![](https://skillicons.dev/icons?i=laravel,php,mysql,nodejs)](https://skillicons.dev) |
+| **Backend** | [![](https://skillicons.dev/icons?i=laravel,php,mysql,nodejs,py)](https://skillicons.dev) |
 | **Frontend** | [![](https://skillicons.dev/icons?i=react,ts,js,vite,html,css)](https://skillicons.dev) |
 | **Systems** | [![](https://skillicons.dev/icons?i=rust,tauri,git,linux,docker)](https://skillicons.dev) |
 
@@ -125,12 +149,14 @@ Public-facing studio SPA. Glassmorphism design with animated starfield canvas (s
 ![PHP 8.3](https://img.shields.io/badge/PHP_8.3-777BB4?style=flat-square&logo=php&logoColor=white)
 ![React 19](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Tauri 2](https://img.shields.io/badge/Tauri_2-24C8D8?style=flat-square&logo=tauri&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Ollama AI](https://img.shields.io/badge/Ollama_AI-4a1eff?style=flat-square&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Ollama AI](https://img.shields.io/badge/Ollama_AI-4a1eff?style=flat-square&logoColor=white)
+![YARA](https://img.shields.io/badge/YARA_Rules-FF6B35?style=flat-square&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 
 </div>
 
@@ -158,7 +184,7 @@ Public-facing studio SPA. Glassmorphism design with animated starfield canvas (s
 
 ## Currently Building
 
-- **KareerOS** — Ollama AI integration polish, Theory Q&A module, Coding Battleground frontend, CI/CD pipeline
+- **KareerOS** — Theory Q&A module, Coding Battleground frontend, CI/CD pipeline
 
 ---
 
@@ -166,9 +192,9 @@ Public-facing studio SPA. Glassmorphism design with animated starfield canvas (s
 
 <div align="center">
 
-![](https://img.shields.io/badge/🟢_Status-Open_to_Engineering_Conversations-7c6af7?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/Status-Open_to_Engineering_Conversations-7c6af7?style=for-the-badge&labelColor=0d1117)
 
-*Interesting problems, collaborations, or just a good engineering conversation — reach out.*
+*Interesting problems, collaborations, or a good engineering conversation — reach out.*
 
 </div>
 
