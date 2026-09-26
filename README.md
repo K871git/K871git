@@ -223,3 +223,5 @@ Public-facing studio SPA. Glassmorphism design with animated starfield canvas (s
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,60:7c6af7,100:4a1eff&height=130&section=footer" width="100%"/>
+
+
