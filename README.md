@@ -9,7 +9,7 @@
 &nbsp;
 
 ![](https://img.shields.io/badge/Products_Shipped-3-7c6af7?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/Commits-417%2B-4a1eff?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/Commits-421%2B-4a1eff?style=for-the-badge&labelColor=0d1117)
 ![](https://img.shields.io/badge/Production-2_Years-c084fc?style=for-the-badge&labelColor=0d1117)
 ![](https://img.shields.io/badge/Domains-AI_%C2%B7_Web_%C2%B7_Desktop-7c6af7?style=for-the-badge&labelColor=0d1117)
 ![Profile Views](https://komarev.com/ghpvc/?username=K871git&color=7c6af7&style=for-the-badge&label=Profile+Views)
@@ -137,14 +137,6 @@ Public-facing studio SPA. Glassmorphism design with animated starfield canvas (s
 ---
 
 ## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=K871git&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K871git&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
 
 <div align="center">
 
