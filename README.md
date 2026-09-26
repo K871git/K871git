@@ -171,30 +171,16 @@ Public-facing studio SPA. Glassmorphism design with animated starfield canvas (s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=K871git&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K871git&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=K871git&theme=tokyonight&hide_border=true&ring=7c6af7&fire=a794f9&currStreakLabel=7c6af7" width="700"/>
 
 </div>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=K871git&theme=tokyonight&no-frame=true&margin-w=12&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/K871git/K871git/output/github-contribution-grid-snake-purple.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/K871git/K871git/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/K871git/K871git/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/K871git/K871git/output/github-contribution-grid-snake-purple.svg" width="100%"/>
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/K871git/K871git/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
@@ -237,5 +223,3 @@ Public-facing studio SPA. Glassmorphism design with animated starfield canvas (s
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,60:7c6af7,100:4a1eff&height=130&section=footer" width="100%"/>
-
-
