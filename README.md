@@ -4,7 +4,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=7C6AF7&center=true&vCenter=true&width=800&lines=Building+KareerOS+%E2%80%94+The+Path+for+NextGen+Engineers;Laravel+13+%7C+React+%7C+TypeScript+%7C+Ollama+AI;Tauri+2+%7C+Rust+%7C+Native+Desktop+Apps;Full-Stack+Engineer+%40+Biz+Secure+Labs%2C+Pune)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=K871git&color=7c6af7&style=flat-square&label=Profile+Views)
+### *"I build systems where others see complexity."*
+
+&nbsp;
+
+![](https://img.shields.io/badge/Products_Shipped-3-7c6af7?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/Commits-417%2B-4a1eff?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/Production-2_Years-c084fc?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/Domains-AI_%C2%B7_Web_%C2%B7_Desktop-7c6af7?style=for-the-badge&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=K871git&color=7c6af7&style=for-the-badge&label=Profile+Views)
 
 </div>
 
@@ -15,6 +23,14 @@
 Full-stack engineer at **Biz Secure Labs** (Net Protector Antivirus, Pune) — 2 years building production systems across web, AI, and native desktop.
 
 I don't do half-finished. Every project I ship has full auth, real data flows, edge case handling, and production deployment. Currently deep in **KareerOS** — an AI-powered engineering growth platform built from scratch as both a real product and my own engineering evolution.
+
+&nbsp;
+
+**Experience**
+
+| Role | Company | Period |
+|:---|:---|:---|
+| Full-Stack Engineer | Biz Secure Labs — Net Protector Antivirus, Pune | 2023 – Present |
 
 ---
 
@@ -27,6 +43,9 @@ I don't do half-finished. Every project I ship has full auth, real data flows, e
 ### KareerOS
 *The Path for NextGen Engineers*
 
+![](https://img.shields.io/badge/Status-🟢_Live-brightgreen?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Deploy-Netlify_%C2%B7_Render_%C2%B7_Railway-646CFF?style=flat-square&labelColor=0d1117)
+
 AI-powered engineering growth platform. Practice MCQs, earn points, spend them on Ollama AI hints. Level exams with 80% pass threshold, code playground (PHP / Python / JS / MySQL with rollback), theory levels across 8 CS areas, gamified point economy.
 
 **Stack**
@@ -37,8 +56,6 @@ AI-powered engineering growth platform. Practice MCQs, earn points, spend them o
 ![Ollama](https://img.shields.io/badge/Ollama_AI-4a1eff?style=flat-square&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Deploy:** Netlify · Render · Railway
-
 [🌐 Live Demo →](https://kareeros.netlify.app/)
 
   </td>
@@ -46,6 +63,9 @@ AI-powered engineering growth platform. Practice MCQs, earn points, spend them o
 
 ### Clinora
 *Clinic Management — Offline, No Cloud*
+
+![](https://img.shields.io/badge/Status-🔵_v1.2.0-4a1eff?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Platform-Windows_x64-0078D4?style=flat-square&labelColor=0d1117)
 
 Native Windows desktop app. Full OPD flow, prescription builder with duplicate detection + allergy alerts, pharmacy dispensing, billing, EMR, role-based access (Doctor / Pharmacist). Cryptographic licensing via ed25519 — no internet required, ever.
 
@@ -56,7 +76,7 @@ Native Windows desktop app. Full OPD flow, prescription builder with duplicate d
 ![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Scale:** 20+ screens · 40+ Tauri commands · v1.2.0
+**Scale:** 20+ screens · 40+ Tauri commands
 
 [⬇️ Download v1.2.0 →](https://k871git.github.io/thaelon/#products)
 
@@ -67,6 +87,9 @@ Native Windows desktop app. Full OPD flow, prescription builder with duplicate d
 
 ### Thaelon
 *Software Engineering Studio — "Imagine. Engineer. Evolve."*
+
+![](https://img.shields.io/badge/Status-🟢_Live-brightgreen?style=flat-square&labelColor=0d1117)
+![](https://img.shields.io/badge/Host-GitHub_Pages-222222?style=flat-square&labelColor=0d1117)
 
 Public-facing studio SPA. Glassmorphism design with animated starfield canvas (stars, moon, shooting stars, clouds, birds — all on raw `<canvas>`), state-machine theme transitions, scroll reveal system, product showcase, and contact. Pure vanilla CSS at ~5300 lines — no Tailwind, no styled-components.
 
@@ -117,6 +140,14 @@ Public-facing studio SPA. Glassmorphism design with animated starfield canvas (s
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=K871git&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K871git&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+<div align="center">
+
 <img src="https://streak-stats.demolab.com?user=K871git&theme=tokyonight&hide_border=true&ring=7c6af7&fire=a794f9&currStreakLabel=7c6af7" width="700"/>
 
 </div>
@@ -139,7 +170,19 @@ Public-facing studio SPA. Glassmorphism design with animated starfield canvas (s
 
 ---
 
-## Connect
+## Open To
+
+<div align="center">
+
+![](https://img.shields.io/badge/🟢_Status-Open_to_Engineering_Conversations-7c6af7?style=for-the-badge&labelColor=0d1117)
+
+*Interesting problems, collaborations, or just a good engineering conversation — reach out.*
+
+</div>
+
+---
+
+## Let's Connect
 
 <div align="center">
 
@@ -153,4 +196,3 @@ Public-facing studio SPA. Glassmorphism design with animated starfield canvas (s
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,60:7c6af7,100:4a1eff&height=130&section=footer" width="100%"/>
-
