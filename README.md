@@ -10,10 +10,8 @@
 
 <br/>
 
-![](https://img.shields.io/badge/Products_Shipped-3-7c6af7?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/Commits-421%2B-4a1eff?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/Experience-2%2B_Years-c084fc?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/Domains-Security_%C2%B7_AI_%C2%B7_Web_%C2%B7_Desktop-7c6af7?style=for-the-badge&labelColor=0d1117)
+<img src="./assets/stats.svg" width="100%"/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=K871git&color=7c6af7&style=for-the-badge&label=Profile+Views)
 
 </div>
@@ -24,7 +22,7 @@
 
 <br/>
 
----
+<img src="./assets/divider.svg" width="100%"/>
 
 ## `> whoami`
 
@@ -38,7 +36,7 @@ Malware internals by day. Full-stack products by night. One engineer.
 
 <br/>
 
----
+<img src="./assets/divider.svg" width="100%"/>
 
 ## `> experience`
 
@@ -74,7 +72,7 @@ Malware internals by day. Full-stack products by night. One engineer.
 
 <br/>
 
----
+<img src="./assets/divider.svg" width="100%"/>
 
 ## `> ./projects --shipped`
 
@@ -151,7 +149,7 @@ Public-facing studio SPA. Glassmorphism design with animated starfield canvas (s
 
 <br/>
 
----
+<img src="./assets/divider.svg" width="100%"/>
 
 ## `> tech stack`
 
@@ -180,7 +178,7 @@ Public-facing studio SPA. Glassmorphism design with animated starfield canvas (s
 
 <br/>
 
----
+<img src="./assets/divider.svg" width="100%"/>
 
 ## `> github stats`
 
@@ -202,7 +200,7 @@ Public-facing studio SPA. Glassmorphism design with animated starfield canvas (s
 
 <br/>
 
----
+<img src="./assets/divider.svg" width="100%"/>
 
 ## `> roadmap --active`
 
@@ -239,23 +237,19 @@ Public-facing studio SPA. Glassmorphism design with animated starfield canvas (s
 
 <br/>
 
----
+<img src="./assets/divider.svg" width="100%"/>
 
 ## `> open --to`
 
 <div align="center">
 
-![](https://img.shields.io/badge/Security_%C3%97_Product-Rare_Combo-7c6af7?style=for-the-badge&labelColor=0d1117)
-
-Security engineering + shipping real products — not many hold both at once.  
-Building something hard? Have an interesting problem? Want to talk engineering craft?  
-**I'm listening.**
+<img src="./assets/pulse.svg" width="100%"/>
 
 </div>
 
 <br/>
 
----
+<img src="./assets/divider.svg" width="100%"/>
 
 ## `> connect`
 
@@ -270,4 +264,4 @@ Building something hard? Have an interesting problem? Want to talk engineering c
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,60:7c6af7,100:4a1eff&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,60:7c6af7,100:4a1eff&height=130&section=footer&animation=twinkling&text=kishor%40K871git&fontColor=ffffff&fontSize=22&fontAlignY=38&desc=Building%20the%20future%20%C2%B7%20one%20commit%20at%20a%20time&descAlignY=58&descSize=12" width="100%"/>
