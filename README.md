@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a1eff,40:7c6af7,100:c084fc&height=220&section=header&text=Kishor%20Gangarde&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Antivirus%20Engineering%20%C2%B7%20Full-Stack%20%C2%B7%20Desktop%20Apps%20%C2%B7%20AI&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a1eff,40:7c6af7,100:c084fc&height=220&section=header&text=Kishor%20Gangarde&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Antivirus%20Engineering%20%C2%B7%20Full-Stack%20%C2%B7%20Desktop%20Apps%20%C2%B7%20AI&descAlignY=58&descSize=17" width="100%"/>
 
 <div align="center">
 
@@ -17,6 +17,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=K871git&color=7c6af7&style=for-the-badge&label=Profile+Views)
 
 </div>
+
+<br/>
+
+<img src="./assets/terminal.svg" width="100%"/>
 
 <br/>
 
