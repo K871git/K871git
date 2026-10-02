@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a1eff,40:7c6af7,100:c084fc&height=220&section=header&text=Kishor%20Gangarde&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20Security%20Systems%20%7C%20Full-Stack%20%7C%20AI%20%7C%20Desktop&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a1eff,40:7c6af7,100:c084fc&height=220&section=header&text=Kishor%20Gangarde&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Antivirus%20Engineering%20%C2%B7%20Full-Stack%20%C2%B7%20Desktop%20Apps%20%C2%B7%20AI&descAlignY=58&descSize=17" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=7C6AF7&center=true&vCenter=true&width=850&lines=Building+KareerOS+%E2%80%94+The+Path+for+NextGen+Engineers;YARA+Rules+%C2%B7+Malware+Analysis+%C2%B7+Antivirus+Engineering;Laravel+13+%7C+React+%7C+TypeScript+%7C+Ollama+AI;Tauri+2+%7C+Rust+%7C+Native+Desktop+Apps;Software+Engineer+%40+Biz+Secure+Labs%2C+Pune)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=7C6AF7&center=true&vCenter=true&width=850&lines=Building+KareerOS+%E2%80%94+The+Path+for+NextGen+Engineers;YARA+Rules+%C2%B7+Malware+Analysis+%C2%B7+Antivirus+Engineering;Laravel+13+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Ollama+AI;Tauri+2+%C2%B7+Rust+%C2%B7+Native+Desktop+Apps;Software+Engineer+%40+Biz+Secure+Labs%2C+Pune)](https://git.io/typing-svg)
 
 <br/>
 
@@ -30,7 +30,7 @@ Software engineer at **[Biz Secure Labs](https://npav.net)** — India's cyberse
 
 **By night:** Three shipped products — a full-stack AI learning platform, a native offline desktop app, and a production web studio. All from scratch. All solving real problems.
 
-> **What makes this profile different:** Security engineering and product development in the same person, at the same time. That's rare at any level.
+Malware internals by day. Full-stack products by night. One engineer.
 
 <br/>
 
@@ -166,22 +166,11 @@ Public-facing studio SPA. Glassmorphism design with animated starfield canvas (s
 <td align="center"><b>Systems</b></td>
 <td><img src="https://skillicons.dev/icons?i=rust,tauri,git,linux,docker"/></td>
 </tr>
+<tr>
+<td align="center"><b>Security</b></td>
+<td><img src="https://skillicons.dev/icons?i=bash"/>&nbsp;&nbsp;<code>YARA Rules</code>&nbsp;&nbsp;<code>ClickHouse</code>&nbsp;&nbsp;<code>Malware Analysis</code></td>
+</tr>
 </table>
-
-<br/>
-
-![Laravel 13](https://img.shields.io/badge/Laravel_13-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP 8.3](https://img.shields.io/badge/PHP_8.3-777BB4?style=flat-square&logo=php&logoColor=white)
-![React 19](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Tauri 2](https://img.shields.io/badge/Tauri_2-24C8D8?style=flat-square&logo=tauri&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Ollama AI](https://img.shields.io/badge/Ollama_AI-4a1eff?style=flat-square&logoColor=white)
-![YARA](https://img.shields.io/badge/YARA_Rules-FF6B35?style=flat-square&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 
 </div>
 
@@ -194,6 +183,12 @@ Public-facing studio SPA. Glassmorphism design with animated starfield canvas (s
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=K871git&theme=tokyonight&hide_border=true&ring=7c6af7&fire=a794f9&currStreakLabel=7c6af7" width="700"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=K871git&theme=tokyo-night&hide_border=true&color=7c6af7&line=7c6af7&point=c084fc&area=true&area_color=0d1117" width="100%"/>
 
 </div>
 
@@ -213,11 +208,36 @@ Public-facing studio SPA. Glassmorphism design with animated starfield canvas (s
 
 ## `> roadmap --active`
 
-| Project | Status | In Progress |
-|:---|:---:|:---|
-| **KareerOS** | 🔨 Active | Theory Q&A module · Coding Battleground frontend · CI/CD pipeline · production AI migration |
-| **Clinora** | 🔵 Planned | v1.3.0 — expanded pharmacy module · lab results tracking |
-| **Thaelon** | 🟡 Iterating | Client projects showcase · Testimonials section |
+<table>
+<tr>
+<td width="34%" valign="top">
+
+**⚡ KareerOS** &nbsp; `Active`
+
+- [ ] Theory Q&A module
+- [ ] Coding Battleground frontend
+- [ ] CI/CD pipeline
+- [ ] Production AI migration
+
+</td>
+<td width="33%" valign="top">
+
+**🔵 Clinora** &nbsp; `v1.3.0 Planned`
+
+- [ ] Expanded pharmacy module
+- [ ] Lab results tracking
+
+</td>
+<td width="33%" valign="top">
+
+**🟡 Thaelon** &nbsp; `Iterating`
+
+- [ ] Client projects showcase
+- [ ] Testimonials section
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -227,9 +247,11 @@ Public-facing studio SPA. Glassmorphism design with animated starfield canvas (s
 
 <div align="center">
 
-![](https://img.shields.io/badge/Status-Open_to_Engineering_Conversations-7c6af7?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/Security_%C3%97_Product-Rare_Combo-7c6af7?style=for-the-badge&labelColor=0d1117)
 
-*Interesting problems, collaborations, or a good engineering conversation — reach out.*
+Security engineering + shipping real products — not many hold both at once.  
+Building something hard? Have an interesting problem? Want to talk engineering craft?  
+**I'm listening.**
 
 </div>
 

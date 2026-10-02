@@ -2,167 +2,84 @@
 
 ## Context
 
-**User:** Kishor — Full-stack developer (2 years) at Biz Secure Labs (Net Protector Antivirus, Pune).  
-**Main project:** CareerOS — an AI-powered career learning platform (Laravel 13, React, TypeScript, Ollama AI).  
-**Goal:** Build a professional GitHub profile that reflects real skills and showcases CareerOS.
+**User:** Kishor Gangarde — Software Engineer at Biz Secure Labs (Net Protector Antivirus, Pune).
+**Experience:** 2+ years, 421+ commits, 3 shipped products.
+**Identity:** Security engineering + product development. Rare combo. That's the brand.
+**GitHub username:** K871git
+**Brand colors:** Purple gradient — `#4a1eff` → `#7c6af7` → `#c084fc`
 
 ---
 
-## What Claude needs to do when asked to write the GitHub README
+## Current README Structure (do not deviate from this order)
 
-When Kishor asks to write or update his GitHub profile README, Claude must:
-
-1. **Ask for these details first** (if not already known):
-   - Exact GitHub username
-   - LinkedIn URL or email for contact section
-   - Any other projects to feature besides CareerOS
-   - Preferred theme: dark / light / minimal
-
-2. **Write a complete `README.md`** — copy-paste ready, no placeholders left unfilled except GitHub username and links Kishor must supply himself.
-
-3. **Follow the structure below exactly** — in this order, nothing skipped.
-
----
-
-## Required README Structure
-
-### Section 1 — Header / Intro
-- One punchy line: who he is + what he builds
-- No fluff, no "passionate developer" clichés
-- Add a wave emoji or keep it clean — Kishor's call
-
-```markdown
-# Hi, I'm Kishor 👋
-Full-stack developer building tools that make learning and security better.
-```
-
-### Section 2 — What I'm Building (Featured Projects)
-- **CareerOS** must be the first and most prominent project
-- Include: what it does (1 sentence), tech stack used, live link if available
-- Format as a table or card-style list — NOT a bullet dump
-
-```markdown
-## What I'm Building
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [CareerOS](link) | AI-powered career learning platform with quizzes, hints, and level progression | Laravel · React · TypeScript · Ollama |
-| [Net Protector](link) | Antivirus tooling at Biz Secure Labs | ... |
-```
-
-### Section 3 — Tech Stack (Visual Badges)
-Use shields.io badges — `style=for-the-badge`. Group them by category.
-
-**Backend:**
-```markdown
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-```
-
-**Frontend:**
-```markdown
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-```
-
-**Tools:**
-```markdown
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-```
-
-### Section 4 — GitHub Stats Cards
-Always use `theme=tokyonight` unless Kishor requests otherwise.
-Replace `YOUR_USERNAME` with his actual GitHub username.
-
-```markdown
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-```
-
-> Note: Stats cards only show public repo data. Remind Kishor to make relevant repos public.
-
-### Section 5 — Currently Working On
-Keep this short and honest — 1-2 lines max.
-
-```markdown
-## Currently Building
-- CareerOS v1 — finishing the points, AI hints, and level exam system
-```
-
-### Section 6 — Contact
-One line. No walls of icons.
-
-```markdown
-## Let's Connect
-[LinkedIn](https://linkedin.com/in/YOUR_HANDLE) · [Email](mailto:YOUR_EMAIL)
-```
+1. **Waving header banner** — capsule-render, purple gradient, name + subtitle
+2. **Typing SVG** — readme-typing-svg.demolab.com, cycling role descriptions
+3. **Quote** — *"I build systems where others see complexity."*
+4. **Stats badges** — Products Shipped · Commits · Experience · Domains · Profile Views (komarev)
+5. **`> whoami`** — prose, who he is, day job + night projects
+6. **`> experience`** — Biz Secure Labs table with domain breakdown
+7. **`> ./projects --shipped`** — 3 projects: KareerOS, Clinora, Thaelon (table layout)
+8. **`> tech stack`** — skillicons.dev grid (Backend / Frontend / Systems rows). No badge pills.
+9. **`> github stats`** — streak card → activity graph → snake animation
+10. **`> roadmap --active`** — 3-column card layout (not a plain table)
+11. **`> open --to`** — sharp, specific copy about security × product combo
+12. **`> connect`** — social links row
+13. **Footer** — capsule-render waving footer, purple reversed
 
 ---
 
-## Rules Claude must follow when writing this README
+## Projects (always use these exact names and details)
+
+### KareerOS (not CareerOS)
+- AI-powered engineering growth platform
+- Stack: Laravel 13, PHP 8.3, React + TypeScript, Vite, Ollama AI, MySQL
+- Deploy: Netlify (frontend) · Render (backend) · Railway (DB)
+- Live: https://kareeros.netlify.app/
+
+### Clinora
+- Native Windows offline clinic management desktop app
+- Stack: Tauri 2, Rust, React 18, MySQL
+- Cryptographic licensing via ed25519 — no internet required
+- Scale: 20+ screens, 40+ Tauri commands
+- Download via Thaelon site
+
+### Thaelon
+- Software engineering studio SPA
+- Stack: React 19, Vite, pure CSS (~5300 lines), GitHub Pages
+- Design: Glassmorphism + animated starfield canvas
+- Live: https://k871git.github.io/thaelon
+
+---
+
+## Reliable services (always use these)
+
+| Service | Purpose | Status |
+|---|---|---|
+| `capsule-render.vercel.app` | Header/footer banners | ✅ Reliable |
+| `readme-typing-svg.demolab.com` | Typing animation | ✅ Reliable |
+| `streak-stats.demolab.com` | Contribution streak | ✅ Reliable |
+| `komarev.com/ghpvc` | Profile view counter | ✅ Reliable |
+| `skillicons.dev` | Tech icon grid | ✅ Reliable |
+| `shields.io` | Badge pills | ✅ Reliable |
+| `github-readme-activity-graph.vercel.app` | Activity heatmap | ⚠️ Community Vercel — may rate limit |
+
+## Broken services (never use these)
+
+| Service | Reason |
+|---|---|
+| `github-readme-stats.vercel.app` | Rate limited — shows broken images constantly |
+| `github-profile-trophy.vercel.app` | Same — community Vercel, unreliable |
+
+---
+
+## Rules Claude must follow
 
 - **No fake projects** — only list real things Kishor has actually built
-- **No buzzword soup** — avoid "passionate", "enthusiastic", "love to code", etc.
-- **No empty sections** — if a section has nothing real to put, skip it entirely
-- **Keep it scannable** — a recruiter should understand Kishor's profile in 15 seconds
-- **Don't over-emoji** — max 2-3 emojis total in the whole file
-- **CareerOS always goes first** — it is the strongest project
+- **No buzzword soup** — no "passionate", "enthusiastic", "love to code"
+- **No empty sections** — skip if nothing real to put
+- **KareerOS always goes first** — strongest project
+- **Tech stack = skillicons grid only** — no duplicate badge pills below it
+- **Roadmap = 3-column card layout** — not a plain markdown table
 - **Write in Kishor's voice** — direct, technical, no corporate-speak
-
----
-
-## How to publish it
-
-1. Go to github.com → New repository
-2. Name it **exactly** the GitHub username (case-sensitive)
-3. Set to **Public**
-4. Check **"Add a README file"**
-5. Replace the README content with the generated file
-6. Commit → done. Profile updates instantly.
-
----
-
-## Making repos look good (Claude should advise this too)
-
-For each project repo Kishor pushes publicly:
-
-- Add a **description** in the repo's About section (one sentence)
-- Add **topics/tags**: e.g. `laravel`, `react`, `typescript`, `ai`, `saas`, `mysql`
-- Add a **live demo URL** if deployed
-- Write a proper `README.md` inside the repo with:
-  - What the project does
-  - Tech stack
-  - How to run locally (setup steps)
-  - Screenshots if possible
-
----
-
-## Quick reference — useful tools
-
-| Tool | Purpose | URL |
-|------|---------|-----|
-| shields.io | Tech stack badges | https://shields.io |
-| github-readme-stats | Stats + language cards | https://github.com/anuraghazra/github-readme-stats |
-| streak-stats | Contribution streak card | https://streak-stats.demolab.com |
-| readme.so | Visual README builder | https://readme.so |
-| skill-icons | Prettier tech icons | https://skillicons.dev |
-
----
-
-## Example — skill-icons alternative to shields.io
-
-If Kishor prefers icon grid over badge pills:
-
-```markdown
-[![My Skills](https://skillicons.dev/icons?i=laravel,php,react,ts,mysql,git,linux,vite)](https://skillicons.dev)
-```
-
-This renders a clean icon row — more visual, less text-heavy.
+- **Never add broken services** — see table above
+- **Brand consistency** — always use purple gradient `#4a1eff` / `#7c6af7` / `#c084fc`
