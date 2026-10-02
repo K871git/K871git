@@ -4,9 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=7C6AF7&center=true&vCenter=true&width=850&lines=Building+KareerOS+%E2%80%94+The+Path+for+NextGen+Engineers;YARA+Rules+%C2%B7+Malware+Analysis+%C2%B7+Antivirus+Engineering;Laravel+13+%7C+React+%7C+TypeScript+%7C+Ollama+AI;Tauri+2+%7C+Rust+%7C+Native+Desktop+Apps;Software+Engineer+%40+Biz+Secure+Labs%2C+Pune)](https://git.io/typing-svg)
 
+<br/>
+
 ### *"I build systems where others see complexity."*
 
-&nbsp;
+<br/>
 
 ![](https://img.shields.io/badge/Products_Shipped-3-7c6af7?style=for-the-badge&labelColor=0d1117)
 ![](https://img.shields.io/badge/Commits-421%2B-4a1eff?style=for-the-badge&labelColor=0d1117)
@@ -16,36 +18,41 @@
 
 </div>
 
----
-
-## Who I Am
-
-Software engineer at **Biz Secure Labs** (Net Protector Antivirus, Pune) — building production systems across cybersecurity, web, AI, and native desktop.
-
-**By day:** malware sample analysis, YARA rule authoring, antivirus rule file generation, web app development on production servers, and database engineering across ClickHouse and MySQL at one of India's leading cybersecurity companies.
-
-**By night:** KareerOS, Clinora, Thaelon — three shipped products built from scratch, each solving a real problem.
-
-I don't do half-finished.
+<br/>
 
 ---
 
-## Experience
+## `> whoami`
+
+Software engineer at **[Biz Secure Labs](https://npav.net)** — India's cybersecurity company behind Net Protector Antivirus, protecting millions of systems nationwide.
+
+**By day:** Malware sample analysis, YARA rule authoring, antivirus rule file generation at scale, production web apps on Linux servers, database engineering across ClickHouse + MySQL.
+
+**By night:** Three shipped products — a full-stack AI learning platform, a native offline desktop app, and a production web studio. All from scratch. All solving real problems.
+
+> **What makes this profile different:** Security engineering and product development in the same person, at the same time. That's rare at any level.
+
+<br/>
+
+---
+
+## `> experience`
 
 <table width="100%">
 <tr>
 <td>
 
-&nbsp;
+<br/>
 
-**🏢 Biz Secure Labs Pvt Ltd** &nbsp;·&nbsp; [npav.net](https://npav.net)
+**🏢 Biz Secure Labs Pvt Ltd** &nbsp;·&nbsp; [npav.net](https://npav.net) &nbsp;·&nbsp; Pune, Maharashtra
 
-![](https://img.shields.io/badge/Software_Engineer-Jun_2024_–_Present-7c6af7?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/Pune%2C_Maharashtra-India-4a1eff?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/Role-Software_Engineer-7c6af7?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/Since-Jun_2024-4a1eff?style=for-the-badge&labelColor=0d1117)
+![](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&labelColor=0d1117)
 
 *Makers of Net Protector Antivirus — India's trusted cybersecurity suite protecting millions of systems*
 
-&nbsp;
+<br/>
 
 | Domain | Contribution |
 |:---|:---|
@@ -55,22 +62,24 @@ I don't do half-finished.
 | **🌐 Web Development** | Production web apps built and deployed on Linux servers |
 | **🗄️ Database Engineering** | ClickHouse for large-scale analytics · MySQL for transactional data |
 
-&nbsp;
+<br/>
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 ---
 
-## What I've Built
+## `> ./projects --shipped`
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
 ### KareerOS
-*The Path for NextGen Engineers*
+**The Path for NextGen Engineers**
 
 ![](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/Deploy-Netlify_%C2%B7_Render_%C2%B7_Railway-646CFF?style=flat-square&labelColor=0d1117)
@@ -91,7 +100,7 @@ AI-powered engineering growth platform. Practice MCQs, earn points, spend them o
   <td width="50%" valign="top">
 
 ### Clinora
-*Clinic Management — Offline, No Cloud*
+**Clinic Management — Offline, No Cloud**
 
 ![](https://img.shields.io/badge/Status-v1.2.0-4a1eff?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/Platform-Windows_x64-0078D4?style=flat-square&labelColor=0d1117)
@@ -115,7 +124,7 @@ Native Windows desktop app. Full OPD flow, prescription builder with duplicate d
     <td colspan="2" valign="top">
 
 ### Thaelon
-*Software Engineering Studio — "Imagine. Engineer. Evolve."*
+**Software Engineering Studio — *"Imagine. Engineer. Evolve."***
 
 ![](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square&labelColor=0d1117)
 ![](https://img.shields.io/badge/Host-GitHub_Pages-222222?style=flat-square&labelColor=0d1117)
@@ -127,7 +136,7 @@ Public-facing studio SPA. Glassmorphism design with animated starfield canvas (s
 ![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/Pure_CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/Pure_CSS_~5300_lines-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white)
 
 [🌐 Live Site →](https://k871git.github.io/thaelon)
@@ -136,19 +145,30 @@ Public-facing studio SPA. Glassmorphism design with animated starfield canvas (s
   </tr>
 </table>
 
+<br/>
+
 ---
 
-## Tech Stack
+## `> tech stack`
 
 <div align="center">
 
-| | |
-|:---|:---:|
-| **Backend** | [![](https://skillicons.dev/icons?i=laravel,php,mysql,nodejs,py)](https://skillicons.dev) |
-| **Frontend** | [![](https://skillicons.dev/icons?i=react,ts,js,vite,html,css)](https://skillicons.dev) |
-| **Systems** | [![](https://skillicons.dev/icons?i=rust,tauri,git,linux,docker)](https://skillicons.dev) |
+<table>
+<tr>
+<td align="center" width="120"><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=laravel,php,mysql,nodejs,py"/></td>
+</tr>
+<tr>
+<td align="center"><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,ts,js,vite,html,css"/></td>
+</tr>
+<tr>
+<td align="center"><b>Systems</b></td>
+<td><img src="https://skillicons.dev/icons?i=rust,tauri,git,linux,docker"/></td>
+</tr>
+</table>
 
-&nbsp;
+<br/>
 
 ![Laravel 13](https://img.shields.io/badge/Laravel_13-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PHP 8.3](https://img.shields.io/badge/PHP_8.3-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -165,9 +185,11 @@ Public-facing studio SPA. Glassmorphism design with animated starfield canvas (s
 
 </div>
 
+<br/>
+
 ---
 
-## GitHub Stats
+## `> github stats`
 
 <div align="center">
 
@@ -185,19 +207,23 @@ Public-facing studio SPA. Glassmorphism design with animated starfield canvas (s
 
 </div>
 
+<br/>
+
 ---
 
-## Currently Building
+## `> roadmap --active`
 
-| Project | Status | What's In Progress |
+| Project | Status | In Progress |
 |:---|:---:|:---|
 | **KareerOS** | 🔨 Active | Theory Q&A module · Coding Battleground frontend · CI/CD pipeline · production AI migration |
 | **Clinora** | 🔵 Planned | v1.3.0 — expanded pharmacy module · lab results tracking |
 | **Thaelon** | 🟡 Iterating | Client projects showcase · Testimonials section |
 
+<br/>
+
 ---
 
-## Open To
+## `> open --to`
 
 <div align="center">
 
@@ -207,9 +233,11 @@ Public-facing studio SPA. Glassmorphism design with animated starfield canvas (s
 
 </div>
 
+<br/>
+
 ---
 
-## Let's Connect
+## `> connect`
 
 <div align="center">
 
@@ -223,5 +251,3 @@ Public-facing studio SPA. Glassmorphism design with animated starfield canvas (s
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,60:7c6af7,100:4a1eff&height=130&section=footer" width="100%"/>
-
-
