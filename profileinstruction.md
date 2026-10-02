@@ -61,7 +61,7 @@
 | `komarev.com/ghpvc` | Profile view counter | ✅ Reliable |
 | `skillicons.dev` | Tech icon grid | ✅ Reliable |
 | `shields.io` | Badge pills | ✅ Reliable |
-| `github-readme-activity-graph.vercel.app` | Activity heatmap | ⚠️ Community Vercel — may rate limit |
+| `github-readme-activity-graph.vercel.app` | Activity heatmap | ❌ Broken — confirmed blank image (same as stats/trophies) |
 
 ## Broken services (never use these)
 

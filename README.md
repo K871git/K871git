@@ -188,12 +188,6 @@ Public-facing studio SPA. Glassmorphism design with animated starfield canvas (s
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=K871git&theme=tokyo-night&hide_border=true&color=7c6af7&line=7c6af7&point=c084fc&area=true&area_color=0d1117" width="100%"/>
-
-</div>
-
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/K871git/K871git/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/K871git/K871git/output/github-contribution-grid-snake.svg">
